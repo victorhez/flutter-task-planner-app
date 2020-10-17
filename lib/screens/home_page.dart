@@ -81,7 +81,7 @@ class HomePage extends StatelessWidget {
                             children: <Widget>[
                               Container(
                                 child: Text(
-                                  'Sourav Suman',
+                                  'Edward Victorhez',
                                   textAlign: TextAlign.start,
                                   style: TextStyle(
                                     fontSize: 22.0,
@@ -92,12 +92,12 @@ class HomePage extends StatelessWidget {
                               ),
                               Container(
                                 child: Text(
-                                  'App Developer',
+                                  'SAN-Onitsha',
                                   textAlign: TextAlign.start,
                                   style: TextStyle(
                                     fontSize: 16.0,
                                     color: Colors.black45,
-                                    fontWeight: FontWeight.w400,
+                                    fontWeight: FontWeight.bold,
                                   ),
                                 ),
                               ),

@@ -111,21 +111,21 @@ class CreateNewTaskPage extends StatelessWidget {
                           spacing: 10.0,
                           children: <Widget>[
                             Chip(
-                              label: Text("SPORT APP"),
+                              label: Text("DEFENDING"),
                               backgroundColor: LightColors.kRed,
                               labelStyle: TextStyle(color: Colors.white),
                             ),
                             Chip(
-                              label: Text("MEDICAL APP"),
+                              label: Text("PLAINTIFF"),
                             ),
                             Chip(
-                              label: Text("RENT APP"),
+                              label: Text("SUPPORTING"),
                             ),
                             Chip(
-                              label: Text("NOTES"),
+                              label: Text("WITNESS"),
                             ),
                             Chip(
-                              label: Text("GAMING PLATFORM APP"),
+                              label: Text("OTHERS"),
                             ),
                           ],
                         ),
